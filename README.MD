@@ -1,4 +1,4 @@
-Problem scenario:
+### Problem scenario:
 
 Suppose we have three types of characters in a GameApp:
 
@@ -19,7 +19,7 @@ B.  AttackStrategy
 
 
 Refactor the existing codes and provide the UML Diagram:
-
+```java
 public class Character {
     private String type;
 
@@ -50,4 +50,5 @@ public class Character {
         }
     }
 }
+```
 
