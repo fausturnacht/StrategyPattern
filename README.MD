@@ -52,3 +52,4 @@ public class Character {
 }
 ```
 
+![UML Diagram](https://github.com/fausturnacht/StrategyPattern/blob/da3b38bc799bf4301342bfbec7eb0e1bfb19935e/StrategyPattern-UML.png)
