@@ -1,0 +1,13 @@
+public class Knight implements Character{
+    
+    @Override
+    public void attack(){
+        System.out.println("Knight attacks with a sword!");
+    }
+
+    public void defend(){
+        System.out.println("Using a shield to defend!");
+        System.out.println("Dodging to avoid attack!");
+        System.out.println("Creating a magic barrier for defense!");
+    }
+}
